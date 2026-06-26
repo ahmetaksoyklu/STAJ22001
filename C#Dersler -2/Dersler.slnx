@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ConsoleApp1ddf/IlkProje.csproj" />
+  <Project Path="DegerVeReferansTipler/DegerVeReferansTipler.csproj" />
+  <Project Path="IkinciProje/IkinciProje.csproj" />
+  <Project Path="OOP1/OOP1.csproj" />
+  <Project Path="ucuncuProje/ucuncuProje.csproj" />
+</Solution>

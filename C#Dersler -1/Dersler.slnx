@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="GenericIntro/GenericIntro.csproj" />
+  <Project Path="OOP1/Koleksiyonlar.csproj" />
+  <Project Path="OOP2/OOP2.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+C:\_Depo\Dersler\Dersler\OOP1\bin\Debug\net10.0\Koleksiyonlar.exe
+C:\_Depo\Dersler\Dersler\OOP1\bin\Debug\net10.0\Koleksiyonlar.deps.json
+C:\_Depo\Dersler\Dersler\OOP1\bin\Debug\net10.0\Koleksiyonlar.runtimeconfig.json
+C:\_Depo\Dersler\Dersler\OOP1\bin\Debug\net10.0\Koleksiyonlar.dll
+C:\_Depo\Dersler\Dersler\OOP1\bin\Debug\net10.0\Koleksiyonlar.pdb
+C:\_Depo\Dersler\Dersler\OOP1\obj\Debug\net10.0\Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Depo\Dersler\Dersler\OOP1\obj\Debug\net10.0\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\_Depo\Dersler\Dersler\OOP1\obj\Debug\net10.0\Koleksiyonlar.AssemblyInfo.cs
+C:\_Depo\Dersler\Dersler\OOP1\obj\Debug\net10.0\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\_Depo\Dersler\Dersler\OOP1\obj\Debug\net10.0\Koleksiyonlar.dll
+C:\_Depo\Dersler\Dersler\OOP1\obj\Debug\net10.0\refint\Koleksiyonlar.dll
+C:\_Depo\Dersler\Dersler\OOP1\obj\Debug\net10.0\Koleksiyonlar.pdb
+C:\_Depo\Dersler\Dersler\OOP1\obj\Debug\net10.0\Koleksiyonlar.genruntimeconfig.cache
+C:\_Depo\Dersler\Dersler\OOP1\obj\Debug\net10.0\ref\Koleksiyonlar.dll

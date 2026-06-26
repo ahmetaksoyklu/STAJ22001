@@ -1,0 +1,14 @@
+D:\Dersler\Dersler\IkinciProje\bin\Debug\net10.0\IkinciProje.exe
+D:\Dersler\Dersler\IkinciProje\bin\Debug\net10.0\IkinciProje.deps.json
+D:\Dersler\Dersler\IkinciProje\bin\Debug\net10.0\IkinciProje.runtimeconfig.json
+D:\Dersler\Dersler\IkinciProje\bin\Debug\net10.0\IkinciProje.dll
+D:\Dersler\Dersler\IkinciProje\bin\Debug\net10.0\IkinciProje.pdb
+D:\Dersler\Dersler\IkinciProje\obj\Debug\net10.0\IkinciProje.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Dersler\IkinciProje\obj\Debug\net10.0\IkinciProje.AssemblyInfoInputs.cache
+D:\Dersler\Dersler\IkinciProje\obj\Debug\net10.0\IkinciProje.AssemblyInfo.cs
+D:\Dersler\Dersler\IkinciProje\obj\Debug\net10.0\IkinciProje.csproj.CoreCompileInputs.cache
+D:\Dersler\Dersler\IkinciProje\obj\Debug\net10.0\IkinciProje.dll
+D:\Dersler\Dersler\IkinciProje\obj\Debug\net10.0\refint\IkinciProje.dll
+D:\Dersler\Dersler\IkinciProje\obj\Debug\net10.0\IkinciProje.pdb
+D:\Dersler\Dersler\IkinciProje\obj\Debug\net10.0\IkinciProje.genruntimeconfig.cache
+D:\Dersler\Dersler\IkinciProje\obj\Debug\net10.0\ref\IkinciProje.dll

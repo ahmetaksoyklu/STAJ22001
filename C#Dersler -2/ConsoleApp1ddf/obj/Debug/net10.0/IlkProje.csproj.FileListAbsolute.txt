@@ -1,0 +1,14 @@
+D:\Dersler\Dersler\ConsoleApp1ddf\bin\Debug\net10.0\IlkProje.exe
+D:\Dersler\Dersler\ConsoleApp1ddf\bin\Debug\net10.0\IlkProje.deps.json
+D:\Dersler\Dersler\ConsoleApp1ddf\bin\Debug\net10.0\IlkProje.runtimeconfig.json
+D:\Dersler\Dersler\ConsoleApp1ddf\bin\Debug\net10.0\IlkProje.dll
+D:\Dersler\Dersler\ConsoleApp1ddf\bin\Debug\net10.0\IlkProje.pdb
+D:\Dersler\Dersler\ConsoleApp1ddf\obj\Debug\net10.0\IlkProje.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Dersler\ConsoleApp1ddf\obj\Debug\net10.0\IlkProje.AssemblyInfoInputs.cache
+D:\Dersler\Dersler\ConsoleApp1ddf\obj\Debug\net10.0\IlkProje.AssemblyInfo.cs
+D:\Dersler\Dersler\ConsoleApp1ddf\obj\Debug\net10.0\IlkProje.csproj.CoreCompileInputs.cache
+D:\Dersler\Dersler\ConsoleApp1ddf\obj\Debug\net10.0\IlkProje.dll
+D:\Dersler\Dersler\ConsoleApp1ddf\obj\Debug\net10.0\refint\IlkProje.dll
+D:\Dersler\Dersler\ConsoleApp1ddf\obj\Debug\net10.0\IlkProje.pdb
+D:\Dersler\Dersler\ConsoleApp1ddf\obj\Debug\net10.0\IlkProje.genruntimeconfig.cache
+D:\Dersler\Dersler\ConsoleApp1ddf\obj\Debug\net10.0\ref\IlkProje.dll
